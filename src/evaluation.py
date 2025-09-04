@@ -16,3 +16,4 @@ def print_metrics(metrics):
     """Print evaluation metrics."""
     for metric, value in metrics.items():
         print(f"{metric.capitalize()}: {value:.4f}")
+        
