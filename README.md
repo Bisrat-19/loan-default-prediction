@@ -34,4 +34,4 @@ This project implements a machine learning solution to predict loan defaults usi
   - Recall
   - F1-Score
   - ROC-AUC
-- Hyperparameter tuning (optional).
+- Hyperparameter tuning.
